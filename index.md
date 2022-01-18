@@ -2,9 +2,9 @@
 - [Introducción](#introduccion)
 - [Objetivo](#objetivo)
 - [Estructura del Curso:](#estrctura-del-curso)
-	- [Horas de Clase](#horas-de-clase)
-	- [Sitio web de la clase](#sitio-web)
-	- [Horas de Oficina](#horas-de-oficina)
+    - [Horas de Clase](#horas-de-clase)
+    - [Sitio web de la clase](#sitio-web)
+    - [Horas de Oficina](#horas-de-oficina)
 - [Evaluación](#evaluacion)
 - [Absentismo](#absentismo)
 - [Temario](#temario)
@@ -33,10 +33,10 @@ Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: http://www.leonpalafox.com/fundamentos_ds/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: http://www.leonpalafox.com/fundamentos_ds_2022/
 ## Horas de oficina
 
-Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electrónico lfpalafox@up.edu.mx.
+Estaré disponible antes de la clase haciendo una cita al correo electrónico lfpalafox@up.edu.mx.
 
 # Evaluacion
 
@@ -44,13 +44,13 @@ La evaluación consistirá en:
 
 - El proyecto final será el 60% de la evaluación final.
     - El proyecto final consistira en el uso de un set de datos de su preferencia para diseñar un caso de negocio.
-	- Pueden hacer equipos de hasta tres personas.
-	- Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
+    - Pueden hacer equipos de hasta tres personas.
+    - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
     - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
-	- 1 Examen Final. 
-	- Tareas.
+    - 1 Examen Final. 
+    - Tareas.
     - Participación en clase
 
 
@@ -99,13 +99,11 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_1_2020.pptx)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_1_2020.pptx)
 
-[Clase 2 - Proyectos de Datos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_2_2020.pptx)
-- [Clase 3 - Visualizaciones - Python](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_3_2020.pptx)
-- [Clase 5 -  Modelos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_5_2020.pptx)
-- [Clase 6 -  Machine Learning](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_6_2020.pptx)
-- [Clase 7 -  Toma de Decisiones](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/toma_decisiones.pptx)
+
+
+
 
 # Ejercicios
 
