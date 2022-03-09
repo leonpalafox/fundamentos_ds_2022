@@ -100,7 +100,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_1_2020.pptx)
-
+- [Clase 2 - Proyectos de Ciencia de Datos](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_2_2020.pptx)
+- [Clase 3 - Narrativa](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_3_2020.pptx)
+- [Clase 5 - Modelaje](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_5_2020.pptx)
 
 
 
